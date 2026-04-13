@@ -1,5 +1,5 @@
 public class noTeenSum {
-        public static int noTeensum(int a, int b, int c nums) {
+        public static int[] noTeensum(int a, int b, int c nums) {
 
 
             int  sum;

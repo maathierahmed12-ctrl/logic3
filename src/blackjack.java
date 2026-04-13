@@ -1,5 +1,5 @@
 public class blackjack {
-        public static Integer blackjack(int a , int b nums) {
+        public static Integer[] blackjack(int a , int b nums) {
 
             if(a>0 || b>0){
                 return n;
